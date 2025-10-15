@@ -1,0 +1,34 @@
+Essay 1: High Quality (Coherent, Specific, Strong Vocabulary)
+Title: The Transformative Potential of AI in Personalized Education
+
+Artificial Intelligence stands poised to revolutionize the landscape of modern 
+education by enabling truly personalized learning pathways. 
+Its primary impact lies in diagnostic assessment: 
+AI tutors can instantly analyze student performance data, 
+pinpointing specific knowledge gaps far faster and more accurately 
+than traditional methods allow. This detailed diagnostic capability permits 
+the dynamic generation of custom curricula. 
+For instance, an AI might assign remedial modules on stoichiometry to one 
+student while challenging another with advanced thermodynamics problems, 
+all within the same classroom setting. Furthermore, 
+AI tools automate grading for objective assignments, freeing up valuable educator time. 
+By managing repetitive administrative burdens and adapting content in real-time, 
+AI functions as a powerful, tireless teaching assistant, 
+allowing human teachers to focus on mentorship, critical thinking development, 
+and addressing the emotional needs of their students, 
+thereby elevating the overall quality of instruction.
+
+Essay 2: Low Quality (Vague, Repetitive, Weak Structure)
+Title: AI and School is Good
+
+AI is a very good thing for school and the whole learning stuff. 
+It will make things better for the students and the teachers too. 
+I think that computers and smart apps are helpful because they can do things fast. 
+When you have a machine that helps, you do not need to do all the work yourself. 
+The machine can grade things for you quickly. This is good for the teacher because 
+they have more time now. More time to do other things, like helping students. 
+Students will like AI because it can help them learn. 
+It teaches them what they are bad at. If they are not good at something, 
+the AI will tell them and give them more practice work. 
+The future is all about technology and having the smart computers in 
+school is the way to go. It makes things easy and more better.
