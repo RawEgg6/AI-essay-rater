@@ -2,3 +2,5 @@
 *.tsv filter=lfs diff=lfs merge=lfs -text
 results/checkpoint-* filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
+results/checkpoint-2858/optimizer.pt filter=lfs diff=lfs merge=lfs -text
+results/checkpoint-5716/optimizer.pt filter=lfs diff=lfs merge=lfs -text
